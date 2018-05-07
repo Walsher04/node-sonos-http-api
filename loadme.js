@@ -18,5 +18,3 @@ return mw ;
 
 
 }
-
-module.exports = loadme;
